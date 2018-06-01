@@ -1,0 +1,1669 @@
+{
+  "TotalUnitsSold": [
+   
+    {
+      "Date": "Mar-16",
+      "Metro": 2176,
+      "City": 640
+    },
+    {
+      "Date": "Apr-16",
+      "Metro": 2486,
+      "City": 715
+    },
+    {
+      "Date": "May-16",
+      "Metro": 2912,
+      "City": 803
+    },
+    {
+      "Date": "Jun-16",
+      "Metro": 3389,
+      "City": 914
+    },
+    {
+      "Date": "Jul-16",
+      "Metro": 2821,
+      "City": 740
+    },
+    {
+      "Date": "Aug-16",
+      "Metro": 2970,
+      "City": 778
+    },
+    {
+      "Date": "Sep-16",
+      "Metro": 2546,
+      "City": 657
+    },
+    {
+      "Date": "Oct-16",
+      "Metro": 2428,
+      "City": 632
+    },
+    {
+      "Date": "Nov-16",
+      "Metro": 2227,
+      "City": 636
+    },
+    {
+      "Date": "Dec-16",
+      "Metro": 2471,
+      "City": 725
+    },
+    {
+      "Date": "Jan-17",
+      "Metro": 1644,
+      "City": 552
+    },
+    {
+      "Date": "Feb-17",
+      "Metro": 1617,
+      "City": 594
+    },
+    {
+      "Date": "Mar-17",
+      "Metro": 2536,
+      "City": 752
+    },
+    {
+      "Date": "Apr-17",
+      "Metro": 2489,
+      "City": 775
+    },
+    {
+      "Date": "May-17",
+      "Metro": 3081,
+      "City": 883
+    },
+    {
+      "Date": "Jun-17",
+      "Metro": 3524,
+      "City": 985
+    },
+    {
+      "Date": "Jul-17",
+      "Metro": 2829,
+      "City": 760
+    },
+    {
+      "Date": "Aug-17",
+      "Metro": 2967,
+      "City": 837
+    },
+    {
+      "Date": "Sep-17",
+      "Metro": 2408,
+      "City": 719
+    },
+    {
+      "Date": "Oct-17",
+      "Metro": 2381,
+      "City": 716
+    },
+    {
+      "Date": "Nov-17",
+      "Metro": 2327,
+      "City": 676
+    },
+    {
+      "Date": "Dec-17",
+      "Metro": 2257,
+      "City": 805
+    },
+	{
+      "Date": "Jan-18",
+      "Metro": 1632,
+      "City": 579
+    },
+	{  "Date": "Feb-18",
+      "Metro": 1692,
+      "City": 560
+    },
+	{  "Date": "Mar-18",
+      "Metro": 2310,
+      "City": 771
+    }
+  ],
+  "AvgHomePrice": [
+    {
+      "Date": "Dec-15",
+      "Metro": 307111.4411,
+      "City": 162212
+    },
+    {
+      "Date": "Jan-16",
+      "Metro": 294394.2402,
+      "City": 134307
+    },
+    {
+      "Date": "Feb-16",
+      "Metro": 289297.8383,
+      "City": 139270
+    },
+    {
+      "Date": "Mar-16",
+      "Metro": 305355.801,
+      "City": 148063
+    },
+    {
+      "Date": "Apr-16",
+      "Metro": 311819.7224,
+      "City": 163073
+    },
+    {
+      "Date": "May-16",
+      "Metro": 331624.8434,
+      "City": 184614
+    },
+    {
+      "Date": "Jun-16",
+      "Metro": 348667.8625,
+      "City": 192921
+    },
+    {
+      "Date": "Jul-16",
+      "Metro": 339075.3205,
+      "City": 197964
+    },
+    {
+      "Date": "Aug-16",
+      "Metro": 326202.8919,
+      "City": 167109
+    },
+    {
+      "Date": "Sep-16",
+      "Metro": 316837.0503,
+      "City": 165030
+    },
+    {
+      "Date": "Oct-16",
+      "Metro": 329523.3171,
+      "City": 169390
+    },
+    {
+      "Date": "Nov-16",
+      "Metro": 317199.9102,
+      "City": 169636
+    },
+    {
+      "Date": "Dec-16",
+      "Metro": 323916.0138,
+      "City": 160304
+    },
+    {
+      "Date": "Jan-17",
+      "Metro": 314836.3455,
+      "City": 154060
+    },
+    {
+      "Date": "Feb-17",
+      "Metro": 304221.7576,
+      "City": 163431
+    },
+    {
+      "Date": "Mar-17",
+      "Metro": 313682.3147,
+      "City": 170655
+    },
+    {
+      "Date": "Apr-17",
+      "Metro": 336904.1527,
+      "City": 171259
+    },
+    {
+      "Date": "May-17",
+      "Metro": 343744.1467,
+      "City": 190771
+    },
+    {
+      "Date": "Jun-17",
+      "Metro": 354923.9305,
+      "City": 199135
+    },
+    {
+      "Date": "Jul-17",
+      "Metro": 353390,
+      "City": 195496
+    },
+    {
+      "Date": "Aug-17",
+      "Metro": 350345,
+      "City": 166238
+    },
+    {
+      "Date": "Sep-17",
+      "Metro": 329388,
+      "City": 172328
+    },
+    {
+      "Date": "Oct-17",
+      "Metro": 330807,
+      "City": 173530
+    },
+    {
+      "Date": "Nov-17",
+      "Metro": 330167,
+      "City": 169107
+    },
+    {
+      "Date": "Dec-17",
+      "Metro": 333434,
+      "City": 162031
+    },
+	{
+      "Date": "Jan-18",
+      "Metro": 323265,
+      "City": 135308
+    },
+	{
+      "Date": "Feb-18",
+      "Metro": 321656,
+      "City": 151090
+    },
+	{
+      "Date": "Mar-18",
+      "Metro": 333196,
+      "City": 172601
+    }
+  ],
+  "AvgDaysOnMarket": [
+        {
+      "Date": "Mar-16",
+      "Metro": 92,
+      "City": 92
+    },
+    {
+      "Date": "Apr-16",
+      "Metro": 84,
+      "City": 89
+    },
+    {
+      "Date": "May-16",
+      "Metro": 71,
+      "City": 77
+    },
+    {
+      "Date": "Jun-16",
+      "Metro": 63,
+      "City": 69
+    },
+    {
+      "Date": "Jul-16",
+      "Metro": 62,
+      "City": 72
+    },
+    {
+      "Date": "Aug-16",
+      "Metro": 60,
+      "City": 72
+    },
+    {
+      "Date": "Sep-16",
+      "Metro": 67,
+      "City": 76
+    },
+    {
+      "Date": "Oct-16",
+      "Metro": 71,
+      "City": 82
+    },
+    {
+      "Date": "Nov-16",
+      "Metro": 70,
+      "City": 71
+    },
+    {
+      "Date": "Dec-16",
+      "Metro": 74,
+      "City": 77
+    },
+    {
+      "Date": "Jan-17",
+      "Metro": 79,
+      "City": 83
+    },
+    {
+      "Date": "Feb-17",
+      "Metro": 88,
+      "City": 84
+    },
+    {
+      "Date": "Mar-17",
+      "Metro": 81,
+      "City": 90
+    },
+    {
+      "Date": "Apr-17",
+      "Metro": 70,
+      "City": 89
+    },
+    {
+      "Date": "May-17",
+      "Metro": 58,
+      "City": 67
+    },
+    {
+      "Date": "Jun-17",
+      "Metro": 51,
+      "City": 64
+    },
+    {
+      "Date": "Jul-17",
+      "Metro": 54,
+      "City": 68
+    },
+    {
+      "Date": "Aug-17",
+      "Metro": 54,
+      "City": 59
+    },
+    {
+      "Date": "Sep-17",
+      "Metro": 59,
+      "City": 73
+    },
+    {
+      "Date": "Oct-17",
+      "Metro": 61,
+      "City": 65
+    },
+    {
+      "Date": "Nov-17",
+      "Metro": 62,
+      "City": 72
+    },
+    {
+      "Date": "Dec-17",
+      "Metro": 66,
+      "City": 59
+    },{
+      "Date": "Jan-18",
+      "Metro": 71,
+      "City": 68
+    },
+    {
+      "Date": "Feb-18",
+      "Metro": 69,
+      "City": 69
+    },
+    {
+      "Date": "Mar-18",
+      "Metro": 72,
+      "City": 75
+    }
+  ],
+  "ConsumerPriceIndex": [
+    {
+      "Date": "Dec-15",
+      "Metro": 236.525,
+      "City": 155.6695
+    },
+    {
+      "Date": "Jan-16",
+      "Metro": 236.916,
+      "City": 155.519
+    },
+    {
+      "Date": "Feb-16",
+      "Metro": 237.111,
+      "City": 156.006
+    },
+    {
+      "Date": "Mar-16",
+      "Metro": 238.132,
+      "City": 156.493
+    },
+    {
+      "Date": "Apr-16",
+      "Metro": 239.261,
+      "City": 157.1315
+    },
+    {
+      "Date": "May-16",
+      "Metro": 240.229,
+      "City": 157.77
+    },
+    {
+      "Date": "Jun-16",
+      "Metro": 241.018,
+      "City": 157.722
+    },
+    {
+      "Date": "Jul-16",
+      "Metro": 240.628,
+      "City": 157.674
+    },
+    {
+      "Date": "Aug-16",
+      "Metro": 240.849,
+      "City": 157.623
+    },
+    {
+      "Date": "Sep-16",
+      "Metro": 241.428,
+      "City": 157.572
+    },
+    {
+      "Date": "Oct-16",
+      "Metro": 241.729,
+      "City": 157.639
+    },
+    {
+      "Date": "Nov-16",
+      "Metro": 241.353,
+      "City": 157.706
+    },
+    {
+      "Date": "Dec-16",
+      "Metro": 241.432,
+      "City": 157.896
+    },
+    {
+      "Date": "Jan-17",
+      "Metro": 242.839,
+      "City": 158.086
+    },
+    {
+      "Date": "Feb-17",
+      "Metro": 243.603,
+      "City": 158.322
+    },
+    {
+      "Date": "Mar-17",
+      "Metro": 243.801,
+      "City": 158.558
+    },
+    {
+      "Date": "Apr-17",
+      "Metro": 244.524,
+      "City": 158.701
+    },
+    {
+      "Date": "May-17",
+      "Metro": 244.733,
+      "City": 158.844
+    },
+    {
+      "Date": "Jun-17",
+      "Metro": 244.955,
+      "City": 158.85
+    },
+    {
+      "Date": "Jul-17",
+      "Metro": 244.79,
+      "City": 158.85
+    },
+    {
+      "Date": "Aug-17",
+      "Metro": 245.52,
+      "City": 159.57
+    },
+    {
+      "Date": "Sep-17",
+      "Metro": 246.82,
+      "City": 160.29
+    },
+    {
+      "Date": "Oct-17",
+      "Metro": 246.66,
+      "City": 160.23
+    },
+    {
+      "Date": "Nov-17",
+      "Metro": 246.67,
+      "City": 160.16
+    },
+    {
+      "Date": "Dec-17",
+      "Metro": 246.52,
+      "City": null
+    },
+	{
+      "Date": "Jan-18",
+      "Metro": 247.87,
+      "City": null
+    },
+	{
+      "Date": "Feb-18",
+      "Metro": 248.99,
+      "City": null
+    },
+	{
+      "Date": "Mar-18",
+      "Metro": 249.55,
+      "City": null
+     }
+  ],
+  "GrossDomesticProduct": [
+        {
+      "Date": "2016:Q1",
+      "Metro": 18325.2,
+      "City": 371.205
+    },
+    {
+      "Date": "2016:Q2",
+      "Metro": 18538,
+      "City": 376.578
+    },
+    {
+      "Date": "2016:Q3",
+      "Metro": 18729.1,
+      "City": 380.95
+    },
+    {
+      "Date": "2016:Q4",
+      "Metro": 18905.5,
+      "City": 389.218
+    },
+    {
+      "Date": "2017:Q1",
+      "Metro": 19057.7,
+      "City": 386.188
+    },
+    {
+      "Date": "2017:Q2",
+      "Metro": 19250,
+      "City": 390.242
+    },
+    {
+      "Date": "2017:Q3",
+      "Metro": 19500.6,
+      "City": 397.468
+    },
+    {
+      "Date": "2017:Q4",
+      "Metro": 19754.1,
+      "City": 400630
+    }, {
+      "Date": "2018:Q1",
+      "Metro": 19965.3,
+      "City": null
+    }
+  ],
+  "USConsumerConfidence": [
+        {
+      "Date": "Mar-16",
+      "Metro": 100.57
+    },
+    {
+      "Date": "Apr-16",
+      "Metro": 100.6
+    },
+    {
+      "Date": "May-16",
+      "Metro": 100.72
+    },
+    {
+      "Date": "Jun-16",
+      "Metro": 100.7
+    },
+    {
+      "Date": "Jul-16",
+      "Metro": 100.55
+    },
+    {
+      "Date": "Aug-16",
+      "Metro": 100.44
+    },
+    {
+      "Date": "Sep-16",
+      "Metro": 100.42
+    },
+    {
+      "Date": "Oct-16",
+      "Metro": 100.5
+    },
+    {
+      "Date": "Nov-16",
+      "Metro": 100.83
+    },
+    {
+      "Date": "Dec-16",
+      "Metro": 101.16
+    },
+    {
+      "Date": "Jan-17",
+      "Metro": 101.32
+    },
+    {
+      "Date": "Feb-17",
+      "Metro": 101.32
+    },
+    {
+      "Date": "Mar-17",
+      "Metro": 101.27
+    },
+    {
+      "Date": "Apr-17",
+      "Metro": 101.24
+    },
+    {
+      "Date": "May-17",
+      "Metro": 101.18
+    },
+    {
+      "Date": "Jun-17",
+      "Metro": 101.07
+    },
+    {
+      "Date": "Jul-17",
+      "Metro": 100.97
+    },
+    {
+      "Date": "Aug-17",
+      "Metro": 101.07
+    },
+    {
+      "Date": "Sep-17",
+      "Metro": 101.20
+    },
+    {
+      "Date": "Oct-17",
+      "Metro": 101.35
+    },
+    {
+      "Date": "Nov-17",
+      "Metro": 101.33
+    },
+    {
+      "Date": "Dec-17",
+      "Metro": 101.24
+    }, 
+	{
+      "Date": "Jan-18",
+      "Metro": 101.27
+    },
+	{
+      "Date": "Feb-18",
+      "Metro": 101.43
+    },
+	{
+      "Date": "Mar-18",
+      "Metro": 101.54
+    }
+  ],
+  "UnemploymentRate": [
+    {
+      "Date": "Dec-15",
+      "US": 5,
+      "MD": 4.7,
+      "BC": 6.6
+    },
+    {
+      "Date": "Jan-16",
+      "US": 4.9,
+      "MD": 4.6,
+      "BC": 7
+    },
+    {
+      "Date": "Feb-16",
+      "US": 4.9,
+      "MD": 4.5,
+      "BC": 6.8
+    },
+    {
+      "Date": "Mar-16",
+      "US": 5,
+      "MD": 4.4,
+      "BC": 6.5
+    },
+    {
+      "Date": "Apr-16",
+      "US": 5,
+      "MD": 4.4,
+      "BC": 6.1
+    },
+    {
+      "Date": "May-16",
+      "US": 4.7,
+      "MD": 4.3,
+      "BC": 5.8
+    },
+    {
+      "Date": "Jun-16",
+      "US": 4.9,
+      "MD": 4.3,
+      "BC": 6.4
+    },
+    {
+      "Date": "Jul-16",
+      "US": 4.9,
+      "MD": 4.3,
+      "BC": 6.5
+    },
+    {
+      "Date": "Aug-16",
+      "US": 4.9,
+      "MD": 4.2,
+      "BC": 6.7
+    },
+    {
+      "Date": "Sep-16",
+      "US": 4.9,
+      "MD": 4.2,
+      "BC": 6
+    },
+    {
+      "Date": "Oct-16",
+      "US": 4.8,
+      "MD": 4.2,
+      "BC": 6.1
+    },
+    {
+      "Date": "Nov-16",
+      "US": 4.6,
+      "MD": 4.2,
+      "BC": 5.8
+    },
+    {
+      "Date": "Dec-16",
+      "US": 4.7,
+      "MD": 4.2,
+      "BC": 5.8
+    },
+    {
+      "Date": "Jan-17",
+      "US": 4.8,
+      "MD": 4.2,
+      "BC": 6.5
+    },
+    {
+      "Date": "Feb-17",
+      "US": 4.7,
+      "MD": 4.2,
+      "BC": 6.4
+    },
+    {
+      "Date": "Mar-17",
+      "US": 4.5,
+      "MD": 4.2,
+      "BC": 6.3
+    },
+    {
+      "Date": "Apr-17",
+      "US": 4.4,
+      "MD": 4.3,
+      "BC": 6
+    },
+    {
+      "Date": "May-17",
+      "US": 4.3,
+      "MD": 4.2,
+      "BC": 5.7
+    },
+    {
+      "Date": "Jun-17",
+      "US": 4.4,
+      "MD": 4.1,
+      "BC": 6.1
+    },
+    {
+      "Date": "Jul-17",
+      "US": 4.3,
+      "MD": 4.0,
+      "BC": 6.1
+    },
+    {
+      "Date": "Aug-17",
+      "US": 4.4,
+      "MD": 3.9,
+      "BC": 6.2
+    },
+    {
+      "Date": "Sep-17",
+      "US": 4.2,
+      "MD": 3.8,
+      "BC": 5.1
+    },
+    {
+      "Date": "Oct-17",
+      "US": 4.1,
+      "MD": 3.8,
+      "BC": 5.4
+    },
+    {
+      "Date": "Nov-17",
+      "US": 4.1,
+      "MD": 3.9,
+      "BC": 5.7
+    },
+    {
+      "Date": "Dec-17",
+      "US": 4.1,
+      "MD": 4.0,
+      "BC": 5.8
+    }, 
+	{
+      "Date": "Jan-18",
+      "US": 4.1,
+      "MD": 4.1,
+      "BC": 6.6
+    },
+	{
+      "Date": "Fen-18",
+      "US": 4.1,
+      "MD": 4.2,
+      "BC": 6.4
+    },
+	{
+      "Date": "Mar-18",
+      "US": 4.1,
+      "MD": 4.3,
+      "BC": 6.8
+    }
+  ],
+  "LaborForce": [
+        {
+      "Date": "Mar-16",
+      "Labor": 293758,
+      "Total": 274524
+    },
+    {
+      "Date": "Apr-16",
+      "Labor": 292086,
+      "Total": 274362
+    },
+    {
+      "Date": "May-16",
+      "Labor": 293400,
+      "Total": 276347
+    },
+    {
+      "Date": "Jun-16",
+      "Labor": 296152,
+      "Total": 277148
+    },
+    {
+      "Date": "Jul-16",
+      "Labor": 298655,
+      "Total": 279307
+    },
+    {
+      "Date": "Aug-16",
+      "Labor": 297944,
+      "Total": 277926
+    },
+    {
+      "Date": "Sep-16",
+      "Labor": 294837,
+      "Total": 277115
+    },
+    {
+      "Date": "Oct-16",
+      "Labor": 296020,
+      "Total": 278083
+    },
+    {
+      "Date": "Nov-16",
+      "Labor": 296076,
+      "Total": 278890
+    },
+    {
+      "Date": "Dec-16",
+      "Labor": 294982,
+      "Total": 277981
+    },
+    {
+      "Date": "Jan-17",
+      "Labor": 295561,
+      "Total": 276468
+    },
+    {
+      "Date": "Feb-17",
+      "Labor": 295112,
+      "Total": 276099
+    },
+    {
+      "Date": "Mar-17",
+      "Labor": 297650,
+      "Total": 278848
+    },
+    {
+      "Date": "Apr-17",
+      "Labor": 297053,
+      "Total": 279294
+    },
+    {
+      "Date": "May-17",
+      "Labor": 296865,
+      "Total": 279948
+    },
+    {
+      "Date": "Jun-17",
+      "Labor": 301541,
+      "Total": 283056
+    },
+    {
+      "Date": "Jul-17",
+      "Labor": 305101,
+      "Total": 286398
+    },
+    {
+      "Date": "Aug-17",
+      "Labor": 303703,
+      "Total": 284775
+    },
+    {
+      "Date": "Sep-17",
+      "Labor": 298842,
+      "Total": 283555
+    },
+    {
+      "Date": "Oct-17",
+      "Labor": 299080,
+      "Total": 278234
+    },
+    {
+      "Date": "Nov-17",
+      "Labor": 294238,
+      "Total": 277516
+    },
+    {
+      "Date": "Dec-17",
+      "Labor": 292410,
+      "Total": 275415
+    },
+	{
+      "Date": "Jan-18",
+      "Labor": 292771,
+      "Total": 273571
+    },
+	{
+      "Date": "Feb-18",
+      "Labor": 293094,
+      "Total": 274278
+    },
+	{
+      "Date": "Mar-18",
+      "Labor": 294323,
+      "Total": 275410
+    }
+  ],
+  "RoomInventory": [
+        {
+      "Date": "Mar-16",
+      "Room": 10560,
+      "Occupancy": 68.44
+    },
+    {
+      "Date": "Apr-16",
+      "Room": 10560,
+      "Occupancy": 75.61
+    },
+    {
+      "Date": "May-16",
+      "Room": 10560,
+      "Occupancy": 75.05
+    },
+    {
+      "Date": "Jun-16",
+      "Room": 10560,
+      "Occupancy": 75.5
+    },
+    {
+      "Date": "Jul-16",
+      "Room": 10456,
+      "Occupancy": 69.61
+    },
+    {
+      "Date": "Aug-16",
+      "Room": 10456,
+      "Occupancy": 72.9
+    },
+    {
+      "Date": "Sep-16",
+      "Room": 10456,
+      "Occupancy": 73.1
+    },
+    {
+      "Date": "Oct-16",
+      "Room": 10456,
+      "Occupancy": 71.6
+    },
+    {
+      "Date": "Nov-16",
+      "Room": 10456,
+      "Occupancy": 58.5
+    },
+    {
+      "Date": "Dec-16",
+      "Room": 10444,
+      "Occupancy": 48.1
+    },
+    {
+      "Date": "Jan-17",
+      "Room": 10594,
+      "Occupancy": 48.8
+    },
+    {
+      "Date": "Feb-17",
+      "Room": 10594,
+      "Occupancy": 60.3
+    },
+    {
+      "Date": "Mar-17",
+      "Room": 10594,
+      "Occupancy": 71.51
+    },
+    {
+      "Date": "Apr-17",
+      "Room": 10594,
+      "Occupancy": 70.65
+    },
+    {
+      "Date": "May-17",
+      "Room": 10336,
+      "Occupancy": 75.2
+    },
+    {
+      "Date": "Jun-17",
+      "Room": 10335,
+      "Occupancy": 78.14
+    },
+    {
+      "Date": "Jul-17",
+      "Room": 10335,
+      "Occupancy": 73.9
+    },
+    {
+      "Date": "Aug-17",
+      "Room": 10436,
+      "Occupancy": 72.9
+    },
+    {
+      "Date": "Sep-17",
+      "Room": 10636,
+      "Occupancy": 68.9
+    },
+    {
+      "Date": "Oct-17",
+      "Room": 10929,
+      "Occupancy": 69.5
+    },
+    {
+      "Date": "Nov-17",
+      "Room": 10929,
+      "Occupancy": 59.6
+    },
+    {
+      "Date": "Dec-17",
+      "Room": 10929,
+      "Occupancy": 42.9
+    },
+	{
+      "Date": "Jan-18",
+      "Room": 10929,
+      "Occupancy": 44.2
+    },
+	{
+      "Date": "Feb-18",
+      "Room": 10929,
+      "Occupancy": 56.2
+    },
+	{
+      "Date": "Mar-18",
+      "Room": 10929,
+      "Occupancy": 66.4
+    }
+  ],
+  "AvgDailyRoomRate": [
+        {
+      "Date": "Mar-16",
+      "Rate": 140.87
+    },
+    {
+      "Date": "Apr-16",
+      "Rate": 157.72
+    },
+    {
+      "Date": "May-16",
+      "Rate": 168.18
+    },
+    {
+      "Date": "Jun-16",
+      "Rate": 155.91
+    },
+    {
+      "Date": "Jul-16",
+      "Rate": 137.62
+    },
+    {
+      "Date": "Aug-16",
+      "Rate": 146.92
+    },
+    {
+      "Date": "Sep-16",
+      "Rate": 164.96
+    },
+    {
+      "Date": "Oct-16",
+      "Rate": 158.31
+    },
+    {
+      "Date": "Nov-16",
+      "Rate": 140.56
+    },
+    {
+      "Date": "Dec-16",
+      "Rate": 130.93
+    },
+    {
+      "Date": "Jan-17",
+      "Rate": 118.82
+    },
+    {
+      "Date": "Feb-17",
+      "Rate": 127.4
+    },
+    {
+      "Date": "Mar-17",
+      "Rate": 148.92
+    },
+    {
+      "Date": "Apr-17",
+      "Rate": 146.83
+    },
+    {
+      "Date": "May-17",
+      "Rate": 165.39
+    },
+    {
+      "Date": "Jun-17",
+      "Rate": 151.67
+    },
+    {
+      "Date": "Jul-17",
+      "Rate": 146.48
+    },
+    {
+      "Date": "Aug-17",
+      "Rate": 139.48
+    },
+    {
+      "Date": "Sep-17",
+      "Rate": 158.84
+    },
+    {
+      "Date": "Oct-17",
+      "Rate": 157.37
+    },
+    {
+      "Date": "Nov-17",
+      "Rate": 138.43
+    },
+    {
+      "Date": "Dec-17",
+      "Rate": 111.81
+    },
+	{
+      "Date": "Jan-18",
+      "Rate": 114.72
+    },
+	{
+      "Date": "Feb-18",
+      "Rate": 120.00
+    },
+	{
+      "Date": "Mar-18",
+      "Rate": 134.51
+    }
+  ],
+  "HotelRooms": [
+        {
+      "Date": "Apr-16",
+      "Rooms": 10560
+    },
+    {
+      "Date": "May-16",
+      "Rooms": 10560
+    },
+    {
+      "Date": "Jun-16",
+      "Rooms": 10560
+    },
+    {
+      "Date": "Jul-16",
+      "Rooms": 10456
+    },
+    {
+      "Date": "Aug-16",
+      "Rooms": 10456
+    },
+    {
+      "Date": "Sep-16",
+      "Rooms": 10456
+    },
+    {
+      "Date": "Oct-16",
+      "Rooms": 10456
+    },
+    {
+      "Date": "Nov-16",
+      "Rooms": 10456
+    },
+    {
+      "Date": "Dec-16",
+      "Rooms": 10444
+    },
+    {
+      "Date": "Jan-17",
+      "Rooms": 10594
+    },
+    {
+      "Date": "Feb-17",
+      "Rooms": 10594
+    },
+    {
+      "Date": "Mar-17",
+      "Rooms": 10594
+    },
+    {
+      "Date": "Apr-17",
+      "Rooms": 10594
+    },
+    {
+      "Date": "May-17",
+      "Rooms": 10336
+    },
+    {
+      "Date": "Jun-17",
+      "Rooms": 10335
+    },
+    {
+      "Date": "Jul-17",
+      "Rooms": 10335
+    },
+    {
+      "Date": "Aug-17",
+      "Rooms": 10436
+    },
+    {
+      "Date": "Sep-17",
+      "Rooms": 10636
+    },
+    {
+      "Date": "Oct-17",
+      "Rooms": 10929
+    },
+    {
+      "Date": "Nov-17",
+      "Rooms": 10929
+    },
+    {
+      "Date": "Dec-17",
+      "Rooms": 10929
+    },
+	{
+      "Date": "Jan-18",
+      "Rooms": 10929
+    },
+	{
+      "Date": "Feb-18",
+      "Rooms": 10929
+    },
+	{
+      "Date": "Mar-18",
+      "Rooms": 10929
+    }
+  ],
+  "SalesTaxRevenue": [
+        {
+      "Date": "Mar-16",
+      "Maryland": 327507985,
+      "City": 26506367
+    },
+    {
+      "Date": "Apr-16",
+      "Maryland": 392347445,
+      "City": 31213559
+    },
+    {
+      "Date": "May-16",
+      "Maryland": 370629018,
+      "City": 29212041
+    },
+    {
+      "Date": "Jun-16",
+      "Maryland": 377552091,
+      "City": 29261898
+    },
+    {
+      "Date": "Jul-16",
+      "Maryland": 421447408,
+      "City": 30424649
+    },
+    {
+      "Date": "Aug-16",
+      "Maryland": 386325737,
+      "City": 27749746
+    },
+    {
+      "Date": "Sep-16",
+      "Maryland": 394211133,
+      "City": 29435282
+    },
+    {
+      "Date": "Oct-16",
+      "Maryland": 392917436,
+      "City": 30319927
+    },
+    {
+      "Date": "Nov-16",
+      "Maryland": 382005304,
+      "City": 29653560
+    },
+    {
+      "Date": "Dec-16",
+      "Maryland": 379581953,
+      "City": 26994692
+    },
+    {
+      "Date": "Jan-17",
+      "Maryland": 466904515,
+      "City": 32688626
+    },
+    {
+      "Date": "Feb-17",
+      "Maryland": 322990998,
+      "City": 52951786
+    },
+    {
+      "Date": "Mar-17",
+      "Maryland": 327609789,
+      "City": 26585909
+    },
+    {
+      "Date": "Apr-17",
+      "Maryland": 385514402,
+      "City": 30387643
+    },
+    {
+      "Date": "May-17",
+      "Maryland": 381145644,
+      "City": 29702704
+    },
+    {
+      "Date": "Jun-17",
+      "Maryland": 392607410,
+      "City": 29239779
+    },
+    {
+      "Date": "Jul-17",
+      "Maryland": 425975309,
+      "City": 30738584
+    },
+    {
+      "Date": "Aug-17",
+      "Maryland": 397155950,
+      "City": 27349074
+    },
+    {
+      "Date": "Sep-17",
+      "Maryland": 381283332,
+      "City": 28309481
+    },
+    {
+      "Date": "Oct-17",
+      "Maryland": 407217875,
+      "City": 30196645
+    },
+    {
+      "Date": "Nov-17",
+      "Maryland": 381937536,
+      "City": 29299844
+    },
+    {
+      "Date": "Dec-17",
+      "Maryland": 388336520,
+      "City": 26912101
+    },
+	{
+      "Date": "Jan-18",
+      "Maryland": 471417473,
+      "City": 32928826
+    },
+	{
+      "Date": "Feb-18",
+      "Maryland": 334450070,
+      "City": 27248370
+    },
+	{
+      "Date": "Mar-18",
+      "Maryland": 331508992,
+      "City": 26204348
+    }
+  ],
+  "TotalLaborForce": [
+    {
+      "Date": "Mar-15",
+      "Maryland": 3125309,
+      "City": 292278
+    },
+    {
+      "Date": "Apr-15",
+      "Maryland": 3123266,
+      "City": 292170
+    },
+    {
+      "Date": "15-May",
+      "Maryland": 3150439,
+      "City": 294596
+    },
+    {
+      "Date": "15-Jun",
+      "Maryland": 3178177,
+      "City": 296000
+    },
+    {
+      "Date": "15-Jul",
+      "Maryland": 3198909,
+      "City": 298712
+    },
+    {
+      "Date": "15-Aug",
+      "Maryland": 3163596,
+      "City": 296795
+    },
+    {
+      "Date": "15-Sep",
+      "Maryland": 3140981,
+      "City": 292216
+    },
+    {
+      "Date": "15-Oct",
+      "Maryland": 3156821,
+      "City": 294490
+    },
+    {
+      "Date": "15-Nov",
+      "Maryland": 3151406,
+      "City": 294554
+    },
+    {
+      "Date": "15-Dec",
+      "Maryland": 3143936,
+      "City": 294353
+    },
+    {
+      "Date": "16-Jan",
+      "Maryland": 3134982,
+      "City": 293274
+    },
+    {
+      "Date": "16-Feb",
+      "Maryland": 3138625,
+      "City": 292634
+    },
+    {
+      "Date": "16-Mar",
+      "Maryland": 3151868,
+      "City": 293758
+    },
+    {
+      "Date": "16-Apr",
+      "Maryland": 3143001,
+      "City": 292086
+    },
+    {
+      "Date": "16-May",
+      "Maryland": 3151996,
+      "City": 293400
+    },
+    {
+      "Date": "16-Jun",
+      "Maryland": 3190270,
+      "City": 296152
+    },
+    {
+      "Date": "16-Jul",
+      "Maryland": 3219317,
+      "City": 298655
+    },
+    {
+      "Date": "16-Aug",
+      "Maryland": 3191365,
+      "City": 297944
+    },
+    {
+      "Date": "16-Sep",
+      "Maryland": 3177815,
+      "City": 294837
+    },
+    {
+      "Date": "16-Oct",
+      "Maryland": 3187678,
+      "City": 296020
+    },
+    {
+      "Date": "16-Nov",
+      "Maryland": 3180574,
+      "City": 296076
+    },
+    {
+      "Date": "16-Dec",
+      "Maryland": 3172633,
+      "City": 294982
+    },
+    {
+      "Date": "17-Jan",
+      "Maryland": 3180882,
+      "City": 295561
+    },
+    {
+      "Date": "17-Feb",
+      "Maryland": 3195826,
+      "City": 295112
+    },
+    {
+      "Date": "17-Mar",
+      "Maryland": 3211130,
+      "City": 297650
+    }
+  ],
+  "VacancyRates": [
+        {
+      "Quarter": "Q1 2017",
+      "Office": 12.4,
+      "Industrial": 7.4,
+      "Retail": 4.2
+    },
+    {
+      "Quarter": "Q2 2017",
+      "Office": 11.0,
+      "Industrial": 6.9,
+      "Retail": 3.6
+    },
+    {
+      "Quarter": "Q3 2017",
+      "Office": 11.3,
+      "Industrial": 7.0,
+      "Retail": 3.4
+    },
+    {
+      "Quarter": "Q4 2017",
+      "Office": 11.0,
+      "Industrial": 8.2,
+      "Retail": 3.9
+    },
+	{
+      "Quarter": "Q1 2018",
+      "Office": 10.5,
+      "Industrial": 8.3,
+      "Retail": 3.7
+    }
+  ],
+  "NetAbsorption": [
+        {
+      "Quarter": "Q1 2017",
+      "Office": 134730,
+      "Industrial": 466337,
+      "Retail": 23674
+    },
+    {
+      "Quarter": "Q2 2017",
+      "Office": 449146,
+      "Industrial": 620001,
+      "Retail": 41171
+    },
+    {
+      "Quarter": "Q3 2017",
+      "Office": -93079,
+      "Industrial": 110979,
+      "Retail": 8979
+    },
+    {
+      "Quarter": "Q4 2017",
+      "Office": -26310,
+      "Industrial": 47924,
+      "Retail": -26244
+    },
+	{
+      "Quarter": "Q1 2018",
+      "Office": 158311,
+      "Industrial": 78962,
+      "Retail": 14511
+    }
+  ],
+  "BusinessEmployment": [
+    {
+      "Quarter": "Q3 2016",
+      "Number": 13674,
+      "Total": 336920
+    },
+    {
+      "Quarter": "Q4 2016",
+      "Number": 13789,
+      "Total": 341306
+    },
+    {
+      "Quarter": "Q1 2017",
+      "Number": 13671,
+      "Total": 333857
+    },
+    {
+      "Quarter": "Q2 2017",
+      "Number": 13752,
+      "Total": 339768
+    },
+    {
+      "Quarter": "Q3 2017",
+      "Number": 13690,
+      "Total": 341166
+    }
+  ],
+  "YearToDateTax": [
+       {
+      "Year": "2017 YTD",
+      "Maryland": 1117505302,
+      "Rest": 1033585752,
+      "City": 83919549
+    },
+	{
+      "Year": "2018 YTD",
+      "Maryland": 1137376535,
+      "Rest": 1050994991,
+      "City": 86381544
+    }
+  ]
+}
